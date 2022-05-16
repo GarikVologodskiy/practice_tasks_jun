@@ -1,4 +1,4 @@
-import java.io.FileNotFoundException;
+/*import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class Exception {
@@ -16,4 +16,4 @@ public class Exception {
     public static void foo() throws IOException, FileNotFoundException {
 
     }
-}
+}*/
